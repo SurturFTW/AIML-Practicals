@@ -1,2 +1,2 @@
 # AIML-Practicals
-VESIT MCA Sem-1 Data Analytics with AIML Practicals 2023-24
+VESIT MCA Sem-2 AIML Practicals 2023-24
